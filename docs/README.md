@@ -88,9 +88,9 @@ Each numbered directory corresponds to a specific stage of the system lifecycle:
 ## 🔗 Related Resources
 
 - [System Overview](./JobSeekerAI_v2_System_Overview.md)
-- Project Repository: *[Add link to GitHub/GitLab repo]*
-- Live Demo: *[Add link if available]*
-- API Documentation: *[Add link to API docs if available]*
+- Project Repository: You're already here!
+- Live Demo: Coming soon
+- API Documentation: Coming Soon
 
 ---
 
